@@ -1,0 +1,3 @@
+ssh competitor@37.46.133.40 -p 4112
+82138
+cd html/laravel
